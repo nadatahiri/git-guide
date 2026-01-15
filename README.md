@@ -18,6 +18,7 @@
    - **Create a GitHub account** at [github.com](https://github.com/).
 
 ---
+hola
 
 ## Use Case: Basic Collaboration Between Two People
 
@@ -248,7 +249,7 @@
    Warning: This permanently deletes commits after the specified one.
    ```bash
    git reset --hard <commit-id>
-   ```
+   `
 
 ---
 
